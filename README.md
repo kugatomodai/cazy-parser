@@ -1,4 +1,4 @@
-## modified by kugatomodai to gain CBM data, 01-03-2021
+## modified by kugatomodai to get CBMs data, 01-03-2021
 # cazy-parser
 *A way to extract specific information from the Carbohydrate-Active enZYmes.*
 
