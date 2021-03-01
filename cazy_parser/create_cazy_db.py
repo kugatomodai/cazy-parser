@@ -292,11 +292,11 @@ def main():
     species_dic = fetch_species()
 
     enzyme_list = [
-        #'Glycoside-Hydrolases',
-        #'GlycosylTransferases',
-        #'Polysaccharide-Lyases',
-        #'Carbohydrate-Esterases',
-        #'Auxiliary-Activities',
+        'Glycoside-Hydrolases',
+        'GlycosylTransferases',
+        'Polysaccharide-Lyases',
+        'Carbohydrate-Esterases',
+        'Auxiliary-Activities',
         'Carbohydrate-Binding-Modules'
     ]
 
